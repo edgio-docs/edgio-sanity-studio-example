@@ -65,7 +65,7 @@ OR
 
 To deploy run:
 
-`sanity build && layer0 build && layer0 deploy`
+`sanity build && layer0 deploy`
 
 Once Sanity Studio is deployed, you will need to add it's URL to Sanity’s [CORS origins](https://www.sanity.io/docs/front-ends/cors) settings. You can do this from the command line:
 
