@@ -1102,10 +1102,10 @@
   resolved "https://registry.npmjs.org/@juggle/resize-observer/-/resize-observer-3.3.1.tgz#b50a781709c81e10701004214340f25475a171a0"
   integrity sha512-zMM9Ds+SawiUkakS7y94Ymqx+S0ORzpG3frZirN3l+UlXUmSUR7hF4wxCVqW+ei94JzV5kt0uXBcoOEAuiydrw==
 
-"@layer0/cli@^4.13.10":
-  version "4.13.10"
-  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.13.10.tgz#bf1f949602c90c0dc0a19e4d16711e6244d721a5"
-  integrity sha512-RiyOwOTt2vsy+FGbRWcaNEEJkGmsXzszejQhnJ+HR5Laxakq6/KKZyaxudKQQJv9XHXyD+7d4s7Ye2ZLctMy1w==
+"@layer0/cli@^4.13.17":
+  version "4.13.17"
+  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.13.17.tgz#f2e266c5d17a355796fee19c97a6ac888f06fb85"
+  integrity sha512-1mL/63n5TTMo6kffVWqDwnsCq7PCd3gokmggPUHCNxUcmdkF1syT42wdfkdwWzXo4RkAoiKBYdlyXbrRaNY9rg==
   dependencies:
     axios "^0.21.2"
     chalk "^4.1.2"
