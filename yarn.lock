@@ -1144,10 +1144,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@layer0/core@^4.13.10":
-  version "4.13.10"
-  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.13.10.tgz#5e7f642395bd037e5cfbc862f9be1e70cb99db58"
-  integrity sha512-POXpEPzyjDO5rJ9MHCTU8CXJunDKtad0ibjzE1Uiwe547kOdOuzixehhduuGBFIyzgO5QebMnRDD2W9B/HVOlg==
+"@layer0/core@^4.13.10", "@layer0/core@^4.15.6":
+  version "4.15.6"
+  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.15.6.tgz#851003c9ded5d682837ff3055bcc812bd662556d"
+  integrity sha512-8r1+bLi+3wpCkLiC8b/cGyl4w1e6exuIJ5x0DKYM0DA/I2hgQ7uJBdP/Dptm04+bL8ZGb05Mh9wQi1h4IKcFWg==
   dependencies:
     "@babel/parser" "^7.16.2"
     "@babel/traverse" "^7.16.0"
@@ -1193,12 +1193,12 @@
     lodash "^4.17.20"
     sirv-cli "^1.0.0"
 
-"@layer0/prefetch@^4.13.10":
-  version "4.13.10"
-  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-4.13.10.tgz#cc6c69245c6e9e091bd456b83fb9cb26219c1c57"
-  integrity sha512-Yhe3cmaeDoJAAEHspkfvoe+35XFi048c+/ScYKnxwTzEOrPjwJcVdkxSY97Ex1ZiIoyo1OxJ2s39vH40rxGZXA==
+"@layer0/prefetch@^4.15.6":
+  version "4.15.6"
+  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-4.15.6.tgz#c129c08eade744c56165d88cc119f9df6648510c"
+  integrity sha512-ojrNiTMJ5vzAfWgAYVlWquG5wUGczOLdcBy4DRKupiI3cq7/QLNeODM1vKMnEEcg5BKOJZy9a1O7Wo33i6Lxeg==
   dependencies:
-    "@layer0/core" "^4.13.10"
+    "@layer0/core" "^4.15.6"
     cheerio "^1.0.0-rc.3"
     json-query "^2.2.2"
     workbox-cacheable-response "^5.1.2"
