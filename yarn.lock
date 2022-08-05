@@ -1144,10 +1144,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@layer0/core@^4.13.10":
-  version "4.13.10"
-  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.13.10.tgz#5e7f642395bd037e5cfbc862f9be1e70cb99db58"
-  integrity sha512-POXpEPzyjDO5rJ9MHCTU8CXJunDKtad0ibjzE1Uiwe547kOdOuzixehhduuGBFIyzgO5QebMnRDD2W9B/HVOlg==
+"@layer0/core@^4.13.10", "@layer0/core@^4.18.0":
+  version "4.18.0"
+  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.18.0.tgz#3db4cdd50d1b7d79e12fcabf6bab95fcc439bfbd"
+  integrity sha512-6t0t61U9TvtBsJ3GmlP4Lo2hzt3rkdv7KfEbK4aiuj5HS1tvenk5S3PUXmSJL8JDUlRF6oiBrGXqgQiESZ8eIA==
   dependencies:
     "@babel/parser" "^7.16.2"
     "@babel/traverse" "^7.16.0"
