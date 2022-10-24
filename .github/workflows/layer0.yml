@@ -14,6 +14,7 @@ jobs:
           node-version: 14
           registry-url: https://npm-proxy.fury.io/moovweb/
       - run: yarn install
+      - run: npm i -g @sanity/cli
       - run: yarn run edgio:deploy -- --token=$LAYER0_DEPLOY_TOKEN
         env:
           LAYER0_DEPLOY_TOKEN: ${{secrets.LAYER0_DEPLOY_TOKEN}}
