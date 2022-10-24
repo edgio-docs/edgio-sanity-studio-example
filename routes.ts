@@ -1,21 +1,9 @@
-// This file was added by layer0 init.
+// This file was automatically added by edgio deploy.
 // You should commit this file to source control.
-
-import { Router } from '@layer0/core/router'
+import { Router } from '@edgio/core'
+import { sanityRoutes } from '@edgio/sanity-studio'
 
 export default new Router()
-    .static('dist', ({ cache }) => {
-        cache({
-            edge: {
-                maxAgeSeconds: 60 * 60 * 60 * 365,
-                forcePrivateCaching: true,
-            },
-            browser: {
-                maxAgeSeconds: 0,
-                serviceWorkerSeconds: 60 * 60 * 24,
-            },
-        })
-    })
-    .fallback(({ appShell }) => {
-        appShell('dist/index.html')
-    })
+  // Prevent search engines from indexing permalink URLs
+  .noIndexPermalink()
+  .use(sanityRoutes)

@@ -1,11 +1,11 @@
 {
   "name": "layer0-sanity-studio-example",
-  "version": "1.0.0",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build",
-    "layer0:build": "layer0 build",
-    "layer0:deploy": "layer0 deploy"
+    "edgio:dev": "edgio dev",
+    "edgio:build": "edgio build",
+    "edgio:deploy": "edgio deploy"
   },
   "dependencies": {
     "@sanity/base": "^2.30.0",
@@ -24,9 +24,10 @@
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.13.10",
-    "@layer0/core": "^4.13.10",
-    "@layer0/devtools": "^4.13.10",
-    "@layer0/prefetch": "^4.13.10"
+    "@edgio/cli": "5.0.4-next-1666555416-d7dfbab.0",
+    "@edgio/core": "5.0.4-next-1666555416-d7dfbab.0",
+    "@edgio/devtools": "5.0.4-next-1666555416-d7dfbab.0",
+    "@edgio/prefetch": "5.0.4-next-1666555416-d7dfbab.0",
+    "@edgio/sanity-studio": "5.0.4-next-1666555416-d7dfbab.0"
   }
 }
