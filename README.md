@@ -42,21 +42,7 @@ To add Edgio to an existing app, run the following:
 edgio init --edgioVersion=5.0.4-next-1666555416-d7dfbab.0 --connector=@edgio/sanity-studio
 ```
 
-The above command creates routes.ts and edgio.config.js. Replace the content in routes.ts by the following:
-
-```ts
-// This file was automatically added by edgio deploy.
-// You should commit this file to source control.
-import { Router } from "@edgio/core";
-import { sanityRoutes } from "@edgio/sanity-studio";
-
-export default new Router()
-  // Prevent search engines from indexing permalink URLs
-  .noIndexPermalink()
-  .use(sanityRoutes);
-```
-
-After saving your `routes.ts` file you will be ready to deploy your project.
+The above command creates routes.ts and edgio.config.js.
 
 ## Step 3: Preview Production Locally With Edgio
 
