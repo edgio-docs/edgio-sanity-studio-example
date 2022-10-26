@@ -1094,10 +1094,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@edgio/cli@5.0.4-next-1666555416-d7dfbab.0":
-  version "5.0.4-next-1666555416-d7dfbab.0"
-  resolved "https://registry.yarnpkg.com/@edgio/cli/-/cli-5.0.4-next-1666555416-d7dfbab.0.tgz#29b724f4cd6a3f3fdd61e25bd244e1ec6ba0ae93"
-  integrity sha512-Dvm8cZ5rBAls/8+e/6YGp4FIrMaiSozChuiiR60lHXR1iuOe8MFK3rGfCP9amo1bRmS6si4BtFlZvbb8kCisPQ==
+"@edgio/cli@5.0.4-next-1666771754-3c927ac.0":
+  version "5.0.4-next-1666771754-3c927ac.0"
+  resolved "https://registry.yarnpkg.com/@edgio/cli/-/cli-5.0.4-next-1666771754-3c927ac.0.tgz#81c21782ea5d3692098e8dcc5eadb1a2a9b135f0"
+  integrity sha512-93GjNN0o3xFGyMka4bgNeTbhu5yQoNis30JtEQw6+CnofnRtQTfWRcEl8Q0FAungAKwmBQV45+WxVkuZdo55zw==
   dependencies:
     axios "^0.21.2"
     chalk "^4.1.2"
