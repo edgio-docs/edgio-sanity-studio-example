@@ -1177,10 +1177,10 @@
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@edgio/devtools@5.0.4-next-1666555416-d7dfbab.0":
-  version "5.0.4-next-1666555416-d7dfbab.0"
-  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-5.0.4-next-1666555416-d7dfbab.0.tgz#8a0ecb730f55aab3205afef6ed325827d7571f9a"
-  integrity sha512-7tMGt9HsvxdydoKc4cmhcnqIWb0KlR3iiKZZMLdllFnXiJYNaXAiMhIubEnhiUKYSEh2DUIS4Y7mof9ZLOogGQ==
+"@edgio/devtools@5.0.4-next-1666771754-3c927ac.0":
+  version "5.0.4-next-1666771754-3c927ac.0"
+  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-5.0.4-next-1666771754-3c927ac.0.tgz#ff7c9f1e3a35457b608649196b2d2092b388c517"
+  integrity sha512-QyqeGMn/3H05WIM3sDlK+CquWESJrZmkYN3LMSyCJsacocbtoEhZwDMCAxNxdbBbr4ubrYFhXyC45uKVtco+dg==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
