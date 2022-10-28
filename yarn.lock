@@ -331,12 +331,7 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@babel/parser@^7.16.7", "@babel/parser@^7.17.10":
-  version "7.17.10"
-  resolved "https://registry.npmjs.org/@babel/parser/-/parser-7.17.10.tgz#873b16db82a8909e0fbd7f115772f4b739f6ce78"
-  integrity sha512-n2Q6i+fnJqzOaq2VkdXxy2TCPCWQZHiCo0XqmrCvDWcZQKRyZzYi4Z0yxlBuN0w+r2ZHmre+Q087DSrw3pbJDQ==
-
-"@babel/parser@^7.18.10", "@babel/parser@^7.18.9", "@babel/parser@^7.19.6":
+"@babel/parser@^7.16.7", "@babel/parser@^7.17.10", "@babel/parser@^7.18.10", "@babel/parser@^7.18.9", "@babel/parser@^7.19.6":
   version "7.19.6"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.19.6.tgz#b923430cb94f58a7eae8facbffa9efd19130e7f8"
   integrity sha512-h1IUp81s2JYJ3mRkdxJgs4UvmSsRvDrx5ICSJbPvtWYv5i1nTBGcBpnog+89rAFMwvvru6E5NUHdBe01UeSzYA==
@@ -1045,23 +1040,7 @@
     "@babel/parser" "^7.18.10"
     "@babel/types" "^7.18.10"
 
-"@babel/traverse@^7.13.0", "@babel/traverse@^7.16.7", "@babel/traverse@^7.16.8", "@babel/traverse@^7.17.10", "@babel/traverse@^7.17.3", "@babel/traverse@^7.17.9", "@babel/traverse@^7.4.5":
-  version "7.17.10"
-  resolved "https://registry.npmjs.org/@babel/traverse/-/traverse-7.17.10.tgz#1ee1a5ac39f4eac844e6cf855b35520e5eb6f8b5"
-  integrity sha512-VmbrTHQteIdUUQNTb+zE12SHS/xQVIShmBPhlNP12hD5poF2pbITW1Z4172d03HegaQWhLffdkRJYtAzp0AGcw==
-  dependencies:
-    "@babel/code-frame" "^7.16.7"
-    "@babel/generator" "^7.17.10"
-    "@babel/helper-environment-visitor" "^7.16.7"
-    "@babel/helper-function-name" "^7.17.9"
-    "@babel/helper-hoist-variables" "^7.16.7"
-    "@babel/helper-split-export-declaration" "^7.16.7"
-    "@babel/parser" "^7.17.10"
-    "@babel/types" "^7.17.10"
-    debug "^4.1.0"
-    globals "^11.1.0"
-
-"@babel/traverse@^7.18.9":
+"@babel/traverse@^7.13.0", "@babel/traverse@^7.16.7", "@babel/traverse@^7.16.8", "@babel/traverse@^7.17.10", "@babel/traverse@^7.17.3", "@babel/traverse@^7.17.9", "@babel/traverse@^7.18.9", "@babel/traverse@^7.4.5":
   version "7.19.6"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.19.6.tgz#7b4c865611df6d99cb131eec2e8ac71656a490dc"
   integrity sha512-6l5HrUCzFM04mfbG09AagtYyR2P0B71B1wN7PfSPiksDPz2k5H9CBC1tcZpz2M8OxbKTPccByoOJ22rUKbpmQQ==
@@ -1136,10 +1115,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@edgio/core@5.0.4-next-1666555416-d7dfbab.0", "@edgio/core@^5.0.4-next-1666555416-d7dfbab.0":
-  version "5.0.4-next-1666555416-d7dfbab.0"
-  resolved "https://registry.yarnpkg.com/@edgio/core/-/core-5.0.4-next-1666555416-d7dfbab.0.tgz#a08433d8114a5b78ad6c676b55febb57a38b098e"
-  integrity sha512-yxLP99fwpOo9l63LF1JM7pYv8PkLbomRCrAZL8D5TDAPcJhxhxHusKR5LH72f34vewlrlqdiFUjdLE4HloEB8Q==
+"@edgio/core@5.0.4-next-1666952306-8f35f82.0", "@edgio/core@^5.0.4-next-1666555416-d7dfbab.0":
+  version "5.0.4-next-1666952306-8f35f82.0"
+  resolved "https://registry.yarnpkg.com/@edgio/core/-/core-5.0.4-next-1666952306-8f35f82.0.tgz#29745b3db7a302a7101404c3bbfccf532840c0da"
+  integrity sha512-HBVJ4trP7iW5MLx8xUcMRXrMr7kf9Z3GjPequs4Qd3udkC69Ua/3vr3wSDCU3Tfz/8kacU6WM1Ef3JQUjJKdSw==
   dependencies:
     "@babel/parser" "^7.18.9"
     "@babel/traverse" "^7.18.9"
