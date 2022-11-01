@@ -26,7 +26,7 @@
   "devDependencies": {
     "@edgio/cli": "5.0.4-next-1666555416-d7dfbab.0",
     "@edgio/core": "5.0.4-next-1666555416-d7dfbab.0",
-    "@edgio/devtools": "5.0.4-next-1666555416-d7dfbab.0",
+    "@edgio/devtools": "5.0.4-next-1667269007-d55f19a.0",
     "@edgio/prefetch": "5.0.4-next-1666555416-d7dfbab.0",
     "@edgio/sanity-studio": "5.0.4-next-1666555416-d7dfbab.0"
   }
