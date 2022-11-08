@@ -1094,10 +1094,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@edgio/cli@5.0.4-next-1666555416-d7dfbab.0":
-  version "5.0.4-next-1666555416-d7dfbab.0"
-  resolved "https://registry.yarnpkg.com/@edgio/cli/-/cli-5.0.4-next-1666555416-d7dfbab.0.tgz#29b724f4cd6a3f3fdd61e25bd244e1ec6ba0ae93"
-  integrity sha512-Dvm8cZ5rBAls/8+e/6YGp4FIrMaiSozChuiiR60lHXR1iuOe8MFK3rGfCP9amo1bRmS6si4BtFlZvbb8kCisPQ==
+"@edgio/cli@5.0.4-next-1667840457-8ecc6f7.0":
+  version "5.0.4-next-1667840457-8ecc6f7.0"
+  resolved "https://registry.yarnpkg.com/@edgio/cli/-/cli-5.0.4-next-1667840457-8ecc6f7.0.tgz#3fe872f44af52024322e3e10031fc5976e084c75"
+  integrity sha512-whXL0M5qi0sk3TUpGM1jtWciSFqrRvvJDGXp+oHewSDFvePqpFoBZ2PhrX2jb4nL7hAXNUYqXHQK25bYJWn2vw==
   dependencies:
     axios "^0.21.2"
     chalk "^4.1.2"
@@ -1115,6 +1115,7 @@
     git-url-parse "^11.1.2"
     globby "^10.0.1"
     import-local "^3.0.2"
+    ipaddr.js "^2.0.1"
     is-ci "^2.0.0"
     json5 "^2.2.0"
     kill-port "^1.6.1"
@@ -6381,6 +6382,11 @@ ipaddr.js@1.9.1:
   version "1.9.1"
   resolved "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.9.1.tgz#bff38543eeb8984825079ff3a2a8e6cbd46781b3"
   integrity sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g==
+
+ipaddr.js@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-2.0.1.tgz#eca256a7a877e917aeb368b0a7497ddf42ef81c0"
+  integrity sha512-1qTgH9NG+IIJ4yfKs2e6Pp1bZg8wbDbKHT21HrLIeYBTRLgMYKnMTPAuI3Lcs61nfx5h1xlXnbJtH1kX5/d/ng==
 
 is-absolute-url@^2.0.0:
   version "2.1.0"
