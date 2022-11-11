@@ -1201,10 +1201,10 @@
     workbox-routing "^5.1.2"
     workbox-strategies "^5.1.2"
 
-"@edgio/sanity-studio@5.0.4-next-1666555416-d7dfbab.0":
-  version "5.0.4-next-1666555416-d7dfbab.0"
-  resolved "https://registry.yarnpkg.com/@edgio/sanity-studio/-/sanity-studio-5.0.4-next-1666555416-d7dfbab.0.tgz#0b7b5d3362072cdba9f7ea586d6954b5b02dda45"
-  integrity sha512-MKTHdbDp9QRnFeOuCuShroQIx+TcdsTVA+HX6LLLiAIbOjlDOkgicIQf/kh5dm99NQxKQ3tzJ9SHbYtQYLPMfg==
+"@edgio/sanity-studio@5.0.4-next-1668161807-ea457ed.0":
+  version "5.0.4-next-1668161807-ea457ed.0"
+  resolved "https://registry.yarnpkg.com/@edgio/sanity-studio/-/sanity-studio-5.0.4-next-1668161807-ea457ed.0.tgz#66a42446d412daa4fb3e9251c003652810674a9d"
+  integrity sha512-F5Ebassf1cGpcSqRjQcyNC+RAR2DsDyYyB13C9WfRrTjvY6tYroJeI3zSjnAP5UHL+Egtsxj7eixMpXLqwJNMg==
 
 "@emotion/is-prop-valid@^0.8.2":
   version "0.8.8"
