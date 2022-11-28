@@ -1140,10 +1140,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@edgio/core@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@edgio/core/-/core-5.0.4.tgz#914f69a4cbe2713d72c3f8a3196e763584fb9814"
-  integrity sha512-e66x6S1OfqwSTKrWbElFRxcoCoEgTFNK/NrFrvkb1dDauPLOh9A1Zw+1SjR+ZwoP7IJito/md6+Mg+bwTfOr+g==
+"@edgio/core@^5.0.4", "@edgio/core@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@edgio/core/-/core-5.0.5.tgz#f10642179a9759aa3fa6be8d829a044330e587a9"
+  integrity sha512-QAAtEwxKjlpA2BH1YmKC1H17SE2w57uAtbKMwfu1Qb3qmw/BslLH7HGouQm/35aLqehGCpDkDwUJyT/qIH6VPA==
   dependencies:
     "@babel/parser" "^7.18.9"
     "@babel/traverse" "^7.18.9"
@@ -1190,12 +1190,12 @@
     lodash "^4.17.20"
     sirv-cli "^1.0.0"
 
-"@edgio/prefetch@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@edgio/prefetch/-/prefetch-5.0.4.tgz#e76e2ce0a2952428093f43ed3cbcaf2151accabc"
-  integrity sha512-aE2JLi+BvHDzj6avUxv7SlDPVWc9armflqQCTD8Gi7oupgMlp5NF2HR+bXEgoeWU7mfeRA05CTXtwwlk8jFZTA==
+"@edgio/prefetch@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@edgio/prefetch/-/prefetch-5.0.5.tgz#8ef496f88c1b059c1097cf1a85f6396202a78248"
+  integrity sha512-JEQXOQF4ENL0QAAzPSvUbQrubbN04F6AV907Yl+2UGqVbsDz7O0W+1MFiApYlafR13xg1VZCT9skvaaOOT7sPw==
   dependencies:
-    "@edgio/core" "^5.0.4"
+    "@edgio/core" "^5.0.5"
     cheerio "^1.0.0-rc.3"
     json-query "^2.2.2"
     workbox-cacheable-response "^5.1.2"
