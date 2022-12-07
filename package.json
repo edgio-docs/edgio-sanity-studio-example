@@ -24,7 +24,7 @@
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "@edgio/cli": "^5.0.4",
+    "@edgio/cli": "^5.1.0",
     "@edgio/core": "^5.0.4",
     "@edgio/devtools": "^5.0.4",
     "@edgio/prefetch": "^5.0.4",
