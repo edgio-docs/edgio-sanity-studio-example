@@ -1181,10 +1181,10 @@
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@edgio/devtools@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-5.0.4.tgz#86e659ff6d9e93ba2cea5cde3674d55f00d7771a"
-  integrity sha512-MOYu42sdv5UxGf3ySuILMklMgYiK+3xYpEEByJFAzsSHs6tWdrQtAkMS1iCtY6PDPVvbxB4oecrNYb+jE1zsxA==
+"@edgio/devtools@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-5.1.0.tgz#fd33834358ad8039abcd106e837c746f0685d83a"
+  integrity sha512-TmY+cNd+3gKF/STjFweMJnzbsttucD7I7MKPa09hFe1rUMs3kfwIQF9Ho+wVk9AdSLsAppdCkmMxtr1kmoXLLQ==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
