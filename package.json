@@ -28,6 +28,6 @@
     "@edgio/core": "^5.0.4",
     "@edgio/devtools": "^5.0.4",
     "@edgio/prefetch": "^5.0.4",
-    "@edgio/sanity-studio": "^5.0.4-next-1666554060-d810dd8.0"
+    "@edgio/sanity-studio": "^6.0.2"
   }
 }
