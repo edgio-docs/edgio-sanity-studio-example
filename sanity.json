@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "layer0-sanity-studio-example"
+    "name": "edgio-sanity-studio-example"
   },
   "api": {
     "projectId": "x5ewd2iw",
