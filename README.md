@@ -39,7 +39,7 @@ npm i -g @edgio/cli
 To add Edgio to an existing app, run the following:
 
 ```bash
-edgio init --connector=@edgio/sanity-studio
+edgio init --edgioVersion=5.0.4-next-1666555416-d7dfbab.0 --connector=@edgio/sanity-studio
 ```
 
 The above command creates routes.ts and edgio.config.js.
@@ -62,6 +62,6 @@ edgio deploy
 
 Once Sanity Studio is deployed, you will need to add it's URL to Sanity’s [CORS origins](https://www.sanity.io/docs/front-ends/cors) settings. You can do this from the command line:
 
-`sanity cors add https://*.layer0-limelight.link --credentials`
+`sanity cors add https://your-url.layer0-limelight.link --credentials`
 
 Alternatively, you can navigate to [manage.sanity.io](https://manage.sanity.io/), find your project and under Settings > API, add the Studio URL to the CORS origins list. You should allow credentials as the Studio requires authentication for added security.
