@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@edgio/cli": "6.0.5",
-    "@edgio/core": "6.0.5",
+    "@edgio/core": "6.0.6",
     "@edgio/devtools": "6.0.5",
     "@edgio/prefetch": "6.0.5",
     "@edgio/sanity-studio": "6.0.5"
