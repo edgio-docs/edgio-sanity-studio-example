@@ -1923,10 +1923,10 @@
     uuid "^8.3.2"
     workbox-build "^6.5.4"
 
-"@edgio/devtools@6.0.5":
-  version "6.0.5"
-  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-6.0.5.tgz#ba65b9b285c594eea0172ffda3419555045d54ab"
-  integrity sha512-5XBAJWNh27v1w42GR7W/w7zqlP9yqOoAc48t1A+7mQ/zqey/RxdGZ2mH3t9PvV0I5/oA1RB9KCZUj8KtNz50Lg==
+"@edgio/devtools@6.0.6":
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-6.0.6.tgz#633de9c634254ea924acec997ebe83ceefe5299a"
+  integrity sha512-7d+/gUf6h0IK3HjfwMGmw3e+6iIuFR66/PO8C1uotdwqOD8mIgzk3ciYuKTuhtjGBHhYxN155HYxd4wVcItleA==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
