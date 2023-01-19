@@ -1947,10 +1947,10 @@
     workbox-routing "^5.1.2"
     workbox-strategies "^5.1.2"
 
-"@edgio/sanity-studio@6.0.5":
-  version "6.0.5"
-  resolved "https://registry.yarnpkg.com/@edgio/sanity-studio/-/sanity-studio-6.0.5.tgz#bcf5fa4fe7e3cb934b5e888dd63f2e7b41c0de02"
-  integrity sha512-pcDQPkSLUPSUzYyRt4XA1jy+MySFP+OOjEZBrbmgEbQp80mYp+KIhs++K0rd9ki/6pd4m167Q7ZZZNYTLgA2ww==
+"@edgio/sanity-studio@6.0.6":
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/@edgio/sanity-studio/-/sanity-studio-6.0.6.tgz#2dbc2f03ae4d8f635301185001d31330417072f7"
+  integrity sha512-xHXlBOQI9eSUx85wtoJ7aVUwh5JaFZucIyWFCYehvHGPHippQxceDQ2BJF9dzaq3Y2dJG+feofouHgXMtbdP1Q==
 
 "@emotion/is-prop-valid@^0.8.2":
   version "0.8.8"
